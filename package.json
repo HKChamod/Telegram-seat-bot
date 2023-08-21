@@ -1,0 +1,19 @@
+{
+  "name": "telegram-seat-bot",
+  "version": "1.0.0",
+  "description": "My Telegram Seat Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKChamod/Telegram-seat-bot.git"
+  },
+  "author": "H.K.Chamod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HKChamod/Telegram-seat-bot/issues"
+  },
+  "homepage": "https://github.com/HKChamod/Telegram-seat-bot#readme"
+}
